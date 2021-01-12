@@ -1,0 +1,9 @@
+.panda-slide{
+    background-color: rgb(230, 211, 213);
+    border-radius: 4em;
+}
+.panda-card{
+    border: 0;
+    border-top:0 ;
+    background-color: whitesmoke;
+}
